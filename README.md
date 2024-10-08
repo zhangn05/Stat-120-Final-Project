@@ -1,9 +1,8 @@
 # Stat-120-Final-Project
 ---
-title: "Final Project"
-author: "Nathan Zhang"
-date: "2024-02-20"
-output: html_document
+Final Project\
+Nathan Zhang\
+2024-02-20
 ---
 
 ```{r setup, include=FALSE}
